@@ -17932,6 +17932,81 @@ var data = {
         mail: 'gabriel@craftvalue.io',
       },
     },
+    {
+      since: '2022-10-26',
+      name: 'Mael Ropars',
+      bio:
+        "Solution Architect chez Temporal Technologies. Spécialisé dans les applications et architectures distribuées.",
+      picture:
+        'https://fr.gravatar.com/userimage/227495681/c71a83273243598b3b334d534e2fac8c.jpg?size=200',
+      websites: [
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/mropars/',
+        },
+        {
+            name: 'Web',
+            url: 'http://temporal.io',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/temporalio',
+        },
+        {
+            name: 'GitHub',
+            url: 'https://github.com/maelropars',
+        },
+      ],
+      location: 'Paris',
+      sessions: [
+        {
+          title: 'Durable Execution System : rendre votre application distribuée robuste et scalable sans effort.',
+          abstract:
+            "Le développement d'applications distribuées contraint les développeurs à passer plus de temps à gérer les problématiques de distribution qu'à développer leur applicatif. Des ingénieurs Uber, ex AWS et ex Azure, ont imaginé le projet OSS Temporal pour répondre à cela en simplifiant le modèle de programmation et en apportant le concept de Workflow. L'objectif de cette présentation est d'expliquer l'origine du projet, des exemples d'utilisation chez Snapchat, Datadog ou Netflix, et une démonstration des mécanismes avec un exemple d'application.",
+          tags: ['applications aistribuées', 'microservices', 'durable execution', 'developper experience'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Workfow-As-Code plutôt que DSL',
+          abstract:
+            "Et si le développement d'un workflow était plus simple et plus efficace qu'un DSL en JSON ou YAML ? Quels types de projets préfèrent l'approche code-first ?",
+          tags: ['applications distribuées', 'microservices', 'BPM', 'DSL', 'developper experience'],
+          lang: ['fr', 'en'],
+        },
+        {
+          title: 'Premiers pas avec le projet Temporal pour Typescript',
+          abstract:
+            'Introduction au projet open source Temporal, concepts et architecture. Premiers pas à travers un exemple simple, en Typescript.',
+          tags: ['developper experience', 'workflow-as-code', 'Java', 'Temporal', 'Springboot'],
+          lang: ['fr', 'en'],
+        },
+        {
+            title: 'Premiers pas avec le projet Temporal pour Go',
+            abstract:
+              'Introduction au projet open source Temporal, concepts et architecture. Premiers pas à travers un exemple simple, en Go.',
+            tags: ['developper experience', 'workflow-as-code', 'Go', 'Temporal'],
+            lang: ['fr', 'en'],
+        },
+        {
+            title: 'Premiers pas avec le projet Temporal pour Python',
+            abstract:
+              'Introduction au projet open source Temporal, concepts et architecture. Premiers pas à travers un exemple simple, en Python.',
+            tags: ['developper experience', 'workflow-as-code', 'Python', 'Temporal'],
+            lang: ['fr', 'en'],
+          },
+        {
+            title: 'Premiers pas avec le projet Temporal pour Java',
+            abstract:
+              'Introduction au projet open source Temporal, concepts et architecture. Premiers pas à travers un exemple simple, en Java.',
+            tags: ['developper experience', 'workflow-as-code', 'Java', 'Temporal', 'Springboot'],
+            lang: ['fr', 'en'],
+          },
+      ],
+      cities: ['Paris', 'Nantes', 'Rennes', 'Lille', 'Lyon'],
+      contacts: {
+        mail: 'mael@temporal.io',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
